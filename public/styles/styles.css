@@ -88,7 +88,7 @@ body {
 }
 
 .about-container > h1 {
-  font-size: 7rem;
+  font-size: 6rem;
   line-height: 1.6;
 }
 
@@ -97,6 +97,7 @@ body {
 }
 
 .info-container > address {
+  margin-bottom: 1rem;
   font-size: 1.75rem;
   font-style: normal;
   color: var(--text-primary);
@@ -129,6 +130,10 @@ body {
   color: var(--text-secondary);
   font-size: 1.12rem;
   line-height: 1.6;
+}
+
+.ph-hand-waving {
+  color: #daa520;
 }
 
 .social-media-container > ul {
