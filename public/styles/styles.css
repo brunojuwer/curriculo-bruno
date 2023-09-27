@@ -12,6 +12,7 @@
   
   --green-primary: #40c762;
   --red-primary: #ed1543;
+  --blue-primary: #28a0dd;
 
   --text-primary: #e7e8f2;
   --text-secondary: #c6c7d0;
@@ -193,21 +194,26 @@ body {
 .knowledge-container > section {
   padding: 2rem;
   display: flex;
+  flex-direction: column;
   gap: 2rem;
   justify-content: center;
 }
 
-.knowledge-container > section > article {
+.knowledge-container > section > section > h2 {
+  font-size: 1.25rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.knowledge-container > section > section > div {
   padding: 2rem;
   border-radius: 8px;
   background-color: var(--dark-secondary);
 }
 
 .card-container {
-  margin-top: 1rem;
-  display: grid;
-  gap: 1rem;
-
+  display: flex;
+  gap: 2.5rem;
   font-weight: 700;
 }
 
@@ -215,6 +221,7 @@ body {
   background-color: #282a36;
   padding: 1rem;
   border-radius: 8px;
+  min-width: 11.5rem;
 }
 
 .card-container li div {
@@ -224,13 +231,12 @@ body {
 }
 
 .card-container li div h3 {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 .card-container li div img {
-  width: 50px;
-  height: 50px;
-  block-size: fit-content;
+  width: 40px;
+  height: 40px;
 }
 
 .card-container li span {
