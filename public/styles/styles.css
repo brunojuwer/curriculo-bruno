@@ -231,6 +231,19 @@ body {
   font-size: 1.25rem;
   color: var(--text-secondary);
   line-height: 1.6;
+  margin-bottom: 0.35rem;
+}
+
+.ph-database {
+  color: #daa520;
+}
+
+.ph-monitor {
+  color: #daa520;
+}
+
+.ph-wrench {
+  color: #daa520;
 }
 
 .knowledge-container > section > section > div {
