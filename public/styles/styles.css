@@ -34,6 +34,7 @@ body {
 ::-webkit-scrollbar {
   width: 10px;
   height: 10px;
+  cursor: pointer;
 }
 
 ::-webkit-scrollbar-track {
@@ -44,6 +45,7 @@ body {
 ::-webkit-scrollbar-thumb {
   background: #888;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -52,7 +54,6 @@ body {
 
 /* Section do Navbar */
 .navbar {
-  position: fixed;
   max-width: 18.75rem;
   min-width: 17rem;
   width: 100%;
@@ -67,13 +68,6 @@ body {
   border-bottom-right-radius: 10px;
 
   background-color: var(--dark-secondary);
-}
-
-.space {
-  max-width: 18.75rem;
-  min-width: 17rem;
-  width: 100%;
-  height: 100vh;
 }
 
 .image-container {
@@ -213,41 +207,35 @@ body {
 .knowledge-container {
   padding: 2rem;
   width: 100%;
-}
-
-.knowledge-container > h1 {
-  padding: 2rem;
-  font-size: 3rem;
+  height: 100vh;
 }
 
 .knowledge-container > section {
-  padding: 2rem;
+  max-width: 1430px;
+  width: 100%;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
   justify-content: center;
 }
 
-.knowledge-container > section > section > h2 {
+.knowledge-container > section > div {
+  max-width: 1430px;
+  width: 100%;
+}
+
+.knowledge-container > section > div > h2 {
+  margin-bottom: 1rem;
   font-size: 1.25rem;
   color: var(--text-secondary);
-  line-height: 1.6;
-  margin-bottom: 0.35rem;
 }
 
-.ph-database {
-  color: #daa520;
-}
-
-.ph-monitor {
-  color: #daa520;
-}
-
-.ph-wrench {
-  color: #daa520;
-}
-
-.knowledge-container > section > section > div {
+.knowledge-container > section > div > div {
+  max-width: 1430px;
+  width: 100%;
   padding: 2rem;
   border-radius: 8px;
   background-color: var(--dark-secondary);
@@ -255,6 +243,7 @@ body {
 
 .card-container {
   max-width: 1420px;
+  width: 100%;
   display: flex;
   gap: 2.5rem;
   font-weight: 700;
@@ -295,5 +284,28 @@ body {
   font-size: 0.85rem;
   padding: 0.25rem;
   border-radius: 5px;
+}
+
+.basic-knowleadge {
+  background-color: var(--blue-primary);
+}
+
+.intermediate-knowleadge {
   background-color: var(--red-primary);
+}
+
+.advanced-knowleadge {
+  background-color: var(--green-primary);
+}
+
+.ph-database {
+  color: #daa520;
+}
+
+.ph-monitor {
+  color: #daa520;
+}
+
+.ph-wrench {
+  color: #daa520;
 }
