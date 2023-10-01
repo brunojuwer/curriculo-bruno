@@ -333,6 +333,18 @@ body {
   font-weight: 700;
 }
 
+
+@media (max-width: 1200px) {
+  .goals > section > h2 {
+    font-size: 1.5rem;
+  }
+
+  .goals > section > div > ul > li {
+    font-size: 1.25rem;
+  }
+}
+
+
 @media (max-width: 998px) {
   .about-container > h1 {
     font-size: 4rem;
