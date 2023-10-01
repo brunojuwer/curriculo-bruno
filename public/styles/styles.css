@@ -430,3 +430,9 @@ body {
     font-size: 1.5rem;
   }
 }
+
+@media (max-width: 422px) {
+  .about-container > h1 {
+    font-size: 2.25rem;
+  }
+}
