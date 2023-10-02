@@ -54,6 +54,7 @@ body {
 
 /* Section do Navbar */
 .navbar {
+  position: fixed;
   max-width: 18.75rem;
   min-width: 17rem;
   width: 100%;
@@ -203,6 +204,13 @@ body {
 }
 
 /* ======= Página CONHECIMENTOS ======= */
+
+.space {
+  max-width: 18.75rem;
+  min-width: 17rem;
+  width: 100%;
+  background-color: transparent;
+}
 
 .knowledge-container {
   padding: 2rem;
