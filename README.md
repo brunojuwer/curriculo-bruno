@@ -1,9 +1,8 @@
-# Currículo Bruno Juwer
-## Atividade Final do Módulo - Front-End I
+# Atividade Final do Módulo - Front-End I
 
 ### 🚀 Link para o projeto [Currículo Bruno](https://bruno.juwer.com.br)
 
----
+
 
 ### 💻 Páginas do projeto versão Desktop:
 
