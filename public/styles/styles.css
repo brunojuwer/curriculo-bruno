@@ -421,6 +421,8 @@ body {
   /* ======= Página SOBRE ======= */
 
   .about-container {
+    margin-top: 2rem;
+    height: auto;
     text-align: center;
   }
 
@@ -465,6 +467,10 @@ body {
 
   .knowledge-container > section {
     width: 100%;
+  }
+
+  .goals {
+    height: auto;
   }
 
   .goals > section {
