@@ -145,7 +145,6 @@ body {
   text-decoration: none;
   font-size: 1.35rem;
   color: var(--green-primary);
-  
   transition: 200ms ease-in color;
 }
 
@@ -491,5 +490,23 @@ body {
 @media (max-width: 422px) {
   .about-container > h1 {
     font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 398px) {
+  .about-container > h1 {
+    font-size: 2rem;
+  }
+
+  .info-container > address {
+    font-size: 1rem;
+  }
+
+  .contact-container > div > strong {
+    font-size: 0.875rem;
+  }
+
+  .contact-container > div > a {
+    font-size: 0.875rem;
   }
 }
