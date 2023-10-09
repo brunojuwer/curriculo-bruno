@@ -10,7 +10,7 @@
 
 ---
 
-![conhecimentos_desktop](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/786bc506-01de-4aa6-9fdb-d9d60c415a02)
+![conhecimentos2](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/f663b100-eb4b-4fed-b57e-b514019d240a)
 
 ---
 
@@ -20,12 +20,16 @@
 
 ### 📱 Páginas do projeto versão Mobile:
 
-![sobre_mobile](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/ed0e6f9b-c2f4-4885-9a0b-1a7ae00226ec)
+<div align="center">
+
+<img src="https://github.com/brunojuwer/curriculo-bruno/assets/60712131/ed0e6f9b-c2f4-4885-9a0b-1a7ae00226ec" alt="Conhecimento mobile"/>
 
 ---
 
-![conhecimentos_mobile](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/3273b04c-ddb5-4b72-a167-a59e1f5040ea)
+<img src="https://github.com/brunojuwer/curriculo-bruno/assets/60712131/7bde1459-80be-4916-863e-2fbeeed79a29" alt="Conhecimento mobile"/>
 
 ---
 
-![objetivos_mobile](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/1ceb5e14-d20f-4c47-9ccb-b21338208249)
+<img src="https://github.com/brunojuwer/curriculo-bruno/assets/60712131/1ceb5e14-d20f-4c47-9ccb-b21338208249" alt="Objetivos mobile"/>
+
+</div>
