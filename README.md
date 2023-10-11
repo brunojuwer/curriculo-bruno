@@ -4,32 +4,14 @@
 
 
 
-### 💻 Páginas do projeto versão Desktop:
+### 💻 Páginas do projeto:
 
-![sobre_desktop](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/f8a21f5d-63ce-41f2-9ba3-0647fa871287)
-
----
-
-![conhecimentos2](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/f663b100-eb4b-4fed-b57e-b514019d240a)
+![Screenshot from 2023-10-11 18-51-03](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/59b3f8aa-508c-4e44-a450-5f35904f25a1)
 
 ---
 
-![objetivos_desktop](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/9d1beeaf-6758-4879-a3b1-b5d850dc4cb8)
+![Screenshot from 2023-10-11 18-52-22](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/4be507b2-fcdc-4cef-9c47-8825be37843c)
 
 ---
 
-### 📱 Páginas do projeto versão Mobile:
-
-<div align="center">
-
-<img src="https://github.com/brunojuwer/curriculo-bruno/assets/60712131/ed0e6f9b-c2f4-4885-9a0b-1a7ae00226ec" alt="Conhecimento mobile"/>
-
----
-
-<img src="https://github.com/brunojuwer/curriculo-bruno/assets/60712131/7bde1459-80be-4916-863e-2fbeeed79a29" alt="Conhecimento mobile"/>
-
----
-
-<img src="https://github.com/brunojuwer/curriculo-bruno/assets/60712131/1ceb5e14-d20f-4c47-9ccb-b21338208249" alt="Objetivos mobile"/>
-
-</div>
+![Screenshot from 2023-10-11 18-53-05](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/9d8bc94e-1476-4bf6-bf6d-5779a0ea4e05)
