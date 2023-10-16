@@ -42,7 +42,7 @@ body {
 
 .nav-container {
   position: relative;
-  top: calc(100% - 70%);
+  top: 30%;
 }
 
 .nav-container nav ul {
@@ -187,7 +187,7 @@ body {
   font-weight: 700;
   max-width: 800px;
   position: absolute;
-  margin: calc(100% - 90%) auto;
+  margin: 10% auto;
 }
 
 .card-container li {
@@ -219,10 +219,12 @@ body {
   padding: 2rem;
 }
 
+.goals > section:first-child {
+  margin-top: 10%;
+}
+
 .goals > section {
   margin-left: 20rem;
-  position: relative;
-  top: 15%;
 }
 
 .goals > section > h2 {
