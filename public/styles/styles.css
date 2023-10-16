@@ -227,7 +227,7 @@ body {
 
 .goals > section > h2 {
   margin-top: 2rem;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   color: var(--text-secondary);
 }
 
@@ -235,16 +235,16 @@ body {
   margin-top: 1rem;
   padding: 2rem;
   border-radius: 10px;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   background-color: var(--dark-secondary);
   max-width: 1000px;
 }
 
-.goals > section > div > ul {
+.goals ul {
   padding: 1rem;
 }
 
-.goals > section > div > ul > li > span {
+.goals ul > li > span {
   color: var(--green-primary);
   font-weight: 700;
 }
