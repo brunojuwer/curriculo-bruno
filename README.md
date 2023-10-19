@@ -6,12 +6,12 @@
 
 ### 💻 Páginas do projeto:
 
-![Screenshot from 2023-10-11 18-51-03](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/59b3f8aa-508c-4e44-a450-5f35904f25a1)
+![Screenshot from 2023-10-19 14-08-12](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/5981600f-b0cc-4851-9db0-6d3360cdf25a)
 
 ---
 
-![Screenshot from 2023-10-11 18-52-22](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/4be507b2-fcdc-4cef-9c47-8825be37843c)
+![Screenshot from 2023-10-19 14-08-20](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/8a723d15-1ac9-4737-bd67-80d1d3b044b7)
 
 ---
 
-![Screenshot from 2023-10-11 18-53-05](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/9d8bc94e-1476-4bf6-bf6d-5779a0ea4e05)
+![Screenshot from 2023-10-19 14-08-26](https://github.com/brunojuwer/curriculo-bruno/assets/60712131/e79096d5-da27-4d6b-bf69-1a472b920db1)
